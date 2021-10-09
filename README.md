@@ -1,3 +1,11 @@
+without threded vs with treaded for harvest
+10643344 microsecond
+5668251 microsecond
+
+-> % diff -s ${PWD}/lama.bin ~/build/world/workspace/baru.bin
+Files /home/kenzanin/tmp/gcc/workspace/lama.bin and /home/kenzanin/build/world/workspace/baru.bin are identical
+
+
 # WORLD - a high-quality speech analysis, manipulation and synthesis system
 
 WORLD is free software for high-quality speech analysis, manipulation and synthesis.
