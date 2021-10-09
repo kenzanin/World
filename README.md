@@ -1,6 +1,6 @@
 without threded vs with treaded for harvest
-10643344 microsecond
-5668251 microsecond
+- 10643344 microsecond
+- 5668251 microsecond
 
 -> % diff -s ${PWD}/lama.bin ~/build/world/workspace/baru.bin
 Files /home/kenzanin/tmp/gcc/workspace/lama.bin and /home/kenzanin/build/world/workspace/baru.bin are identical
